@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi there, I'm Shreyeeka 👋
 
-<!--
-**shreyeeka/shreyeeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc CSIT Student from Nepal  
+💻 Full Stack Developer | 🔐 Cybersecurity Enthusiast | 🤖 AI Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about building real-world software solutions and continuously learning new technologies. My interests include cybersecurity, web development, artificial intelligence, and creating impactful projects that solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Final-year BSc CSIT student
+- 🔐 Interested in Cybersecurity 
+- 🌐 Learning Full Stack Web Development
+- 🤖 Exploring Artificial Intelligence and Computer Vision
+- 📚 Always learning something new in tech
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+
+- Python
+- HTML5
+- CSS3
+- JavaScript
+- SQL
+- Java
+
+**Frameworks & Libraries**
+
+- Django
+- Bootstrap
+
+**Databases**
+
+- MySQL
+- SQLite
+
+---
+
+## 📖 Currently Learning
+
+- Cybersecurity
+- Django
+- AI Applications
+- Cloud Fundamentals
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyeeka&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyeeka&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: shreyeekamaharjan@gmail.com
+
+---
+
+😄 Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
