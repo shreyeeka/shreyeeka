@@ -49,14 +49,6 @@ I'm passionate about building real-world software solutions and continuously lea
 
 ---
 
-## 📈 GitHub Stats
-
-![Shreyeeka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyeeka&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyeeka&layout=compact&theme=github_dark)
-
----
-
 ## 📫 Connect With Me
 
 📧 Email: shreyeekamaharjan@gmail.com
