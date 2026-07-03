@@ -51,9 +51,9 @@ I'm passionate about building real-world software solutions and continuously lea
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyeeka&show_icons=true)
+![Shreyeeka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyeeka&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyeeka&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyeeka&layout=compact&theme=dark)
 
 ---
 
