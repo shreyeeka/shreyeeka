@@ -32,6 +32,7 @@ I'm passionate about building real-world software solutions and continuously lea
 
 - Django
 - Bootstrap
+- Tailwind CSS
 
 **Databases**
 
@@ -43,11 +44,10 @@ I'm passionate about building real-world software solutions and continuously lea
 ## 📖 Currently Learning
 
 - Cybersecurity
-- Django
-- AI Applications
-- Cloud Fundamentals
 - React
 - Node.js
+- AI Applications
+- Cloud Fundamentals
 
 ---
 
