@@ -46,6 +46,8 @@ I'm passionate about building real-world software solutions and continuously lea
 - Django
 - AI Applications
 - Cloud Fundamentals
+- React
+- Node.js
 
 ---
 
