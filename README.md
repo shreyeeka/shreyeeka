@@ -27,6 +27,7 @@ I'm passionate about building real-world software solutions and continuously lea
 - JavaScript
 - SQL
 - Java
+- React
 
 **Frameworks & Libraries**
 
@@ -44,7 +45,7 @@ I'm passionate about building real-world software solutions and continuously lea
 ## 📖 Currently Learning
 
 - Cybersecurity
-- React
+- REST APIs
 - Node.js
 - AI Applications
 - Cloud Fundamentals
@@ -54,7 +55,8 @@ I'm passionate about building real-world software solutions and continuously lea
 ## 📫 Connect With Me
 
 - 📧 Email: shreyeekamaharjan@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/shreyeeka-maharjan-709b0b420/
+- LinkedIn: https://www.linkedin.com/in/shreyeeka-maharjan-709b0b420/
+- Portfolio website: https://shreyeeka-portfolio.vercel.app
 
 ---
 
